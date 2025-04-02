@@ -1,6 +1,6 @@
 # **Game Rules**
 
-Every new player starts with **300 points**. Each week, players can place bets on three different games: **D6, D8, and D10**.
+Every new player starts with **300 points**. Each round, players can place bets on three different games: **D6, D8, and D10**.
 
 ## **D6 Game:**
 Players bet on the outcome of rolling a six-sided die (**1–6**).<br>
